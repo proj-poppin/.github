@@ -18,7 +18,7 @@
 ### Back-End
 |이름|역할|이메일|기술
 |----|---|---|---|
-|[강산아](https://github.com/gsandoo)|Server|rlrlfhtm5@gmail.com|Spring-Boot
+|[강산아](https://github.com/gsandoo)|Server|dev.gsandoo@gmail.com|Spring-Boot|Infra|
 |[정구연](https://github.com/gouyeonch)|Server|rlrlfhtm5@gmail.com|Spring-Boot
 |[조원준](https://github.com/jun6292)|Server|rlrlfhtm5@gmail.com|Spring-Boot
 
