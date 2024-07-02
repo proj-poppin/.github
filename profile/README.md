@@ -20,7 +20,7 @@
 |----|---|---|---|
 |[강산아](https://github.com/gsandoo)|Server|dev.gsandoo@gmail.com|Spring-Boot|Infra|
 |[정구연](https://github.com/gouyeonch)|Server|rlrlfhtm5@gmail.com|Spring-Boot
-|[조원준](https://github.com/jun6292)|Server|rlrlfhtm5@gmail.com|Spring-Boot
+|[조원준](https://github.com/jun6292)|Server|kr.public.wonjun@gmail.com|Spring-Boot
 
 
 # 🛠️ Tech Stack 🛠️
