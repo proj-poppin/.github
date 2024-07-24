@@ -1,10 +1,15 @@
  <div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BAFD,100:E473CB&text=POPPIN" /></div>
 
+### Appstore Download: [📱Appstore link ](https://apps.apple.com/kr/app/%ED%8C%9D%ED%95%80/id6482994685) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fproj-poppin%2Fpoppin-app&count_bg=%2300BAFD&title_bg=%23E473CB&icon=player-dot-me.svg&icon_color=%23FFFFFF&title=%ED%8C%9D%ED%95%80&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img width="1079" alt="스크린샷 2024-07-21 오전 9 15 39" src="https://github.com/user-attachments/assets/8676da37-2772-43de-87cc-cc93fd0974d4">
+
 
 > 2023년 불었던 팝업 열풍, 이를 모아서 보여줄 수 있는 앱은 활성화 되어 있지 않았습니다. 이곳 저곳에서 수집해야 하는 정보들과 그 정보들의 부정확함 때문에 겪는
 문제들을 해결하고자 팀 버블이 모였습니다!
 맞춤 팝업스토어를 PIN하다!를 의미하는 버블팀의 어플리케이션 팝핀(POPPIN)입니다.
+
 
 ## 👋🏻 Team Members
 
@@ -12,8 +17,7 @@
 |이름|역할|이메일|기술
 |----|---|---|---|
 |[이도형](https://github.com/puretension)|FrontEnd(Android/iOS)|rlrlfhtm5@gmail.com|React-Native|
-|[곽민우](https://github.com/kmwdevelop)|Frontend(Android/iOS)|rlrlfhtm5@gmail.com|React-Native|
-|[안소희](https://github.com/sohee-an)|Frontend(Android/iOS)|rlrlfhtm5@gmail.com|React-Native|
+|[이주형](https://github.com/leejh4197)|FrontEnd(Admin)|leejh4197@gmail.com|React|
 
 ### Back-End
 |이름|역할|이메일|기술
@@ -108,3 +112,6 @@
 | 🔀 | :twisted_rightwards_arrows | Merge branches |
 | 💡 | :bulb | Add/modify comments |
 | 🗃 | :card_file_box | Database-related changes |
+
+## Copyright © 2024 BUBBLE CO., LTD
+---
