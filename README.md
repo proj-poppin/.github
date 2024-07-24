@@ -17,8 +17,6 @@
 |이름|역할|이메일|기술
 |----|---|---|---|
 |[이도형](https://github.com/puretension)|FrontEnd(Android/iOS)|rlrlfhtm5@gmail.com|React-Native|
-|[곽민우](https://github.com/kmwdevelop)|Frontend(Android/iOS)|rlrlfhtm5@gmail.com|React-Native|
-|[안소희](https://github.com/sohee-an)|Frontend(Android/iOS)|rlrlfhtm5@gmail.com|React-Native|
 |[이주형](https://github.com/leejh4197)|FrontEnd(Admin)|leejh4197@gmail.com|React|
 
 ### Back-End
