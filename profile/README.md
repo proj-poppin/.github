@@ -3,7 +3,7 @@
 ### Appstore Download: [📱Appstore link ](https://apps.apple.com/kr/app/%ED%8C%9D%ED%95%80/id6482994685) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fproj-poppin%2Fpoppin-app&count_bg=%2300BAFD&title_bg=%23E473CB&icon=player-dot-me.svg&icon_color=%23FFFFFF&title=%ED%8C%9D%ED%95%80&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img width="1079" alt="스크린샷 2024-07-21 오전 9 15 39" src="https://github.com/user-attachments/assets/8676da37-2772-43de-87cc-cc93fd0974d4">
+<img width="1079" alt="스크린샷 2024-07-21 오전 9 15 39" src="https://github.com/user-attachments/assets/ed9c9c5b-8d82-4f32-a01c-80976b4e03d6">
 
 
 > 2023년 불었던 팝업 열풍, 이를 모아서 보여줄 수 있는 앱은 활성화 되어 있지 않았습니다. 이곳 저곳에서 수집해야 하는 정보들과 그 정보들의 부정확함 때문에 겪는
